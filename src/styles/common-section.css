@@ -1,0 +1,25 @@
+.common__section {
+  background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
+    url("../assets/all-images/drive.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+}
+.common__section1 {
+  background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
+    url("../assets/all-images/customer.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+}
+
+.common__section2 {
+  background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
+    url("../assets/all-images/booking.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+}

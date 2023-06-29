@@ -1,0 +1,20 @@
+.billing__form .form__group input{
+    border: 1px solid var(--card-bg-02);
+
+}
+.booking_cars{
+    padding: 20px;
+    background: var(--primary-color);
+    color: darkblue;
+    border-radius: 5px;
+
+}
+
+.summary{
+    /* background-color: darkblue; */
+    color: antiquewhite
+}
+span {
+    float: right;
+}
+

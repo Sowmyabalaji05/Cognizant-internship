@@ -1,0 +1,25 @@
+
+  
+  .logo1 h1 a span {
+    font-size: 1.5rem;
+  }
+  
+  .logo1 h1 a i {
+    font-size: 2.2rem;
+  }
+  
+  .logo1 h1 a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+  }
+  
+  .logo1 h1 {
+    line-height: 1.5rem;
+  }
+  .header__location1 span i {
+    font-size: 2.2rem;
+    color: white;
+  }
+  
+  

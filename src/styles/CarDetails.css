@@ -1,0 +1,6 @@
+.flex-container{
+    display: flex;
+    column-gap: 20px;  /* Set a gap of 20px */
+    align-items: flex-start;
+    justify-content: center;
+}
